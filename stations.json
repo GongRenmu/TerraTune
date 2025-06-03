@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "\tArrow Classic Rock",
+    "latitude": 52.07963259545092,
+    "longitude": 4.303894042968751,
+    "country": "The Netherlands",
+    "city": "",
+    "stream_url": "http://stream.gal.io/arrow"
+  },
+  {
+    "name": "\tHard Rock Radio FM",
+    "latitude": 43.064015622124,
+    "longitude": -74.90702480077745,
+    "country": "The United States Of America",
+    "city": "NY",
+    "stream_url": "http://67.249.184.45:8015/"
+  },
+  {
+    "name": "\tWDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE",
+    "latitude": 50.92368207021104,
+    "longitude": 6.970162960285244,
+    "country": "Germany",
+    "city": "NRW",
+    "stream_url": "http://d111.rndfnk.com/ard/wdr/sportschau/liga2konferenz/mp3/128/stream.mp3?cid=01FCTCEDGFT7H68HFSJPF7JSBG&sid=2xujsrWhN7IvcpmUlFpP8BypWYx&token=guO7PYlTqGLjv-0frUY6zdO7ZUS7evKuzMxQkvehReI&tvf=jL_6-3wLRRhkMTExLnJuZGZuay5jb20"
+  },
+  {
+    "name": "   Radio Disney 94.3 - Buenos Aires, Argentina",
+    "latitude": -34.60106421695718,
+    "longitude": -58.39284896850587,
+    "country": "Argentina",
+    "city": "Ciudad de Buenos Aires",
+    "stream_url": "https://24233.live.streamtheworld.com:443/DISNEY_ARG_BA_ADP.aac"
+  },
+  {
+    "name": "  Stereorey: 100.9 FM - Aguascalientes, México. La Máxima Dimensión del Radio.",
+    "latitude": 21.884926314879024,
+    "longitude": -102.29473114013672,
+    "country": "Mexico",
+    "city": "Aguascalientes, Aguascalientes",
+    "stream_url": "https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8"
+  },
+  {
+    "name": "  STEREOREY: La Máxima Dimensión del Radio",
+    "latitude": 19.430494810569368,
+    "longitude": -99.18051213026048,
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "stream_url": "https://14153.live.streamtheworld.com:443/STEREOREYAAC.aac"
+  },
+  {
+    "name": " - DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Mashups, DJ Sets, Club Edits, Dancefloor, Underground, Nightlife, Party Anthems, Ibiza, Miami, Clubbing, Festival, Remix, Mashup, DJ, EDM,  RAVE, Dance, Urban, Latin, Beachclub, Lounge",
+    "latitude": 48.139375222954875,
+    "longitude": 11.565427975272248,
+    "country": "Germany",
+    "city": "Bavaria",
+    "stream_url": "https://rautemusik.stream17.radiohost.de/breakz?ref=rb-djclubcharts&upd-meta=0&upd-scheme=https&_art=dD0xNzQ4ODQ3MzkyJmQ9NGQ4YzlmMGRhZjg5ODczM2EyZDk"
+  },
+  {
+    "name": " - NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.",
+    "latitude": 50.896465141886814,
+    "longitude": 6.988258641139763,
+    "country": "Germany",
+    "city": "North Rhine-Westphalia",
+    "stream_url": "https://rautemusik.stream39.radiohost.de/breakz?ref=rb-neuerscheinungen&upd-meta=0&upd-scheme=https&_art=dD0xNzQ4ODU2MjE4JmQ9NTRlYzllZDI1NDNhZWFjMmVjNTg"
+  },
+  {
+    "name": " # 100 NU-DISCO CENTRAL RADIO",
+    "latitude": 41.86035637336661,
+    "longitude": 12.442609120127154,
+    "country": "Italy",
+    "city": "Roma",
+    "stream_url": "https://stream-179.zeno.fm/jqhhzffjynbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqcWhoemZmanluYnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNmd3TEE4V25UZHVpY0wydHdZSGFCZyIsImlhdCI6MTc0ODg2NjM5MiwiZXhwIjoxNzQ4ODY2NDUyfQ.cb7cCLgeEDH6mxYtGPsdabiHeiRoCgpnm_I5Ozb5f8A"
+  },
+  {
+    "name": " # 70s 80s 90s RdMix Network",
+    "latitude": 43.62887189047809,
+    "longitude": -79.40116589602019,
+    "country": "Canada",
+    "city": "Ontario",
+    "stream_url": "https://cast1.torontocast.com:1830/stream"
+  },
+  {
+    "name": " 101.9 ROCK",
+    "latitude": 46.318899794912994,
+    "longitude": -79.45604324340822,
+    "country": "Canada",
+    "city": "Canada",
+    "stream_url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01"
+  },
+  {
+    "name": " 2025 FM 92.3 (Morelia) - 92.3 FM - XHLY-FM - Cadena RASA - Morelia, Michoacán",
+    "latitude": 19.703811652788747,
+    "longitude": -101.19257926940918,
+    "country": "Mexico",
+    "city": "Morelia, Michoacán",
+    "stream_url": "http://s4.mexside.net:7040/;"
+  },
+  {
+    "name": " 50s 60s RETRO HITS",
+    "latitude": 41.35825713137815,
+    "longitude": 13.34703019410145,
+    "country": "Italy",
+    "city": "Lazio",
+    "stream_url": "https://stream-157.zeno.fm/pxzwykxbluitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweHp3eWt4Ymx1aXR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZHc5TGdERm9UXy1SREF6YVB2SWlpQSIsImlhdCI6MTc0ODg3Mzk1OCwiZXhwIjoxNzQ4ODc0MDE4fQ.QjgMg8Ttr9HeLNhYcbHxwyv-WW31vhnRGSXJs75XvOo"
+  },
+  {
+    "name": " ABC DEPORTES 660 (MTY) - 660 AM - XEFZ-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "latitude": 25.680791667045295,
+    "longitude": -100.31659126281738,
+    "country": "Mexico",
+    "city": "Monterrey, Nuevo León",
+    "stream_url": "https://26143.live.streamtheworld.com:443/ABC_NOTICIAS_660AMAAC.aac"
+  },
+  {
+    "name": " ADN 92.1 (Saltillo) - 92.1 FM - XHPEFQ-FM - Alas Para Las Palabras, A.C. - Saltillo, Coahuila",
+    "latitude": 25.424288975314095,
+    "longitude": -100.993709564209,
+    "country": "Mexico",
+    "city": "Saltillo, Coahuila",
+    "stream_url": "https://streamingcwsradio30.com/8322/stream"
+  },
+  {
+    "name": " ALTAVOZ 89.1 (Culiacán) - 89.1 FM - XHCPCQ-FM - SPR (Sistema Público de Radiodifusión del Estado Mexicano) - Culiacán, Sinaloa",
+    "latitude": 24.800998592437733,
+    "longitude": -107.3929023742676,
+    "country": "Mexico",
+    "city": "Culiacán, Sinaloa",
+    "stream_url": "https://s2.mexside.net/8094/stream"
+  },
+  {
+    "name": " AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán",
+    "latitude": 20.969699900317423,
+    "longitude": -89.62354660034181,
+    "country": "Mexico",
+    "city": "Mérida, Yucatán",
+    "stream_url": "https://webprod.sipse.com.mx:8080/amor"
+  },
+  {
+    "name": " AMOR 101 101.3 (Guaymas) - 101.3 FM - XHFX-FM - Grupo ASVA - Guaymas, Sonora",
+    "latitude": 27.922646641807205,
+    "longitude": -110.9000301361084,
+    "country": "Mexico",
+    "city": "Guaymas, Sonora",
+    "stream_url": "https://sp3.servidorrprivado.com/4474/stream"
+  },
+  {
+    "name": " AMOR 103.1 (León) - 103.1 FM - XHXF-FM - Grupo ACIR - León, Guanajuato",
+    "latitude": 21.122898091480646,
+    "longitude": -101.68301582336429,
+    "country": "Mexico",
+    "city": "León, Guanajuato",
+    "stream_url": "https://24943.live.streamtheworld.com:443/XHXFAAC.aac"
+  },
+  {
+    "name": " AMOR 95.3 (San Luis Potosí) - 95.3 FM - XHNB-FM - Grupo ACIR - San Luis Potosí, San Luis Potosí",
+    "latitude": 22.15426487854331,
+    "longitude": -100.97723007202148,
+    "country": "Mexico",
+    "city": "San Luis Potosí, San Luis Potosí",
+    "stream_url": "https://14103.live.streamtheworld.com:443/XHNBFMAAC.aac"
+  },
+  {
+    "name": " AMOR ES 95.1 (Ciudad Guzmán) - 95.1 FM - XHBC-FM - Grupo Radiofónico ZER - Ciudad Guzmán, Jalisco",
+    "latitude": 19.701244806421247,
+    "longitude": -103.46421718597414,
+    "country": "Mexico",
+    "city": "Ciudad Guzmán, Jalisco",
+    "stream_url": "https://cast.zuperdns.net/9510/stream/"
+  },
+  {
+    "name": " AMOR ES 99.3 (Zacatecas) - 99.3 FM - XHZAZ-FM - Grupo Radiofónico ZER - Zacatecas, Zacatecas",
+    "latitude": 22.77646096075339,
+    "longitude": -102.57290840148929,
+    "country": "Mexico",
+    "city": "Zacatecas, Zacatecas",
+    "stream_url": "https://cast.zuperdns.net/8002/stream/"
+  },
+  {
+    "name": " AMOR MÍO 92.9 (Ensenada) - 92.9 FM - XHFZO-FM - Grupo Uzivra - Ensenada, Baja California",
+    "latitude": 31.86757633300706,
+    "longitude": -116.60150527954104,
+    "country": "Mexico",
+    "city": "Ensenada, Baja California",
+    "stream_url": "https://sudominiohoy.com:18303/;stream.mp3"
+  },
+  {
+    "name": " ARANDAS FM 107.3 (Arandas) - 107.3 FM - XHARDJ-FM - Grupo Radiofónico ZER - Arandas, Jalisco",
+    "latitude": 20.707430829533493,
+    "longitude": -102.34665870666504,
+    "country": "Mexico",
+    "city": "Arandas, Jalisco",
+    "stream_url": "https://live.zuperdns.net/1073/stream"
+  },
+  {
+    "name": " ARROBA FM 101.1 (Hermosillo) - 101.1 FM - XHVSS-FM - Radiorama Sonora - Hermosillo, Sonora",
+    "latitude": 29.096041919083248,
+    "longitude": -110.96800804138184,
+    "country": "Mexico",
+    "city": "Hermosillo, Sonora",
+    "stream_url": "https://stream.freepi.io/8402/live"
+  },
+  {
+    "name": " ARROBA FM 101.7 (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila",
+    "latitude": 28.706212103016057,
+    "longitude": -100.51880836486818,
+    "country": "Mexico",
+    "city": "Piedras Negras, Coahuila",
+    "stream_url": "https://stream-159.zeno.fm/p7xefup9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN3hlZnVwOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMHdTMWxnRUJTc3FIcG42T1ZHc2h4ZyIsImlhdCI6MTc0ODg1ODUxNSwiZXhwIjoxNzQ4ODU4NTc1fQ.cESvuPN95NJtQAugeo9H8SztaXykH_qrr9VSaQtMay4"
+  },
+  {
+    "name": " ARROBA FM 104.9 (Obregón) - 104.9 FM - XHESO-FM - Radiorama Sonora - Obregón, Sonora",
+    "latitude": 27.48718696548609,
+    "longitude": -109.9369239807129,
+    "country": "Mexico",
+    "city": "Ciudad Obregón, Sonora",
+    "stream_url": "https://stream-161.zeno.fm/6g9vm2ezbfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Zzl2bTJlemJmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMExudXgwQ2ZTb2F3dXRWY2drd2F0ZyIsImlhdCI6MTc0ODgwMjY2MCwiZXhwIjoxNzQ4ODAyNzIwfQ.aLLCr4vIo9px0spm1ipoQ0kM4gAY_bbUF93aHVWnNf4"
+  },
+  {
+    "name": " ARROBA FM 88.5 (Chihuahua) - 88.5 FM - XHDI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua",
+    "latitude": 28.63843674548642,
+    "longitude": -106.07737541198732,
+    "country": "Mexico",
+    "city": "Chihuahua, Chihuahua",
+    "stream_url": "https://stream-154.zeno.fm/hv5u0bg9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodjV1MGJnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTS1JZjlIVTFUaTJFSndPd1dtdGJ4QSIsImlhdCI6MTc0ODgwNjg5MSwiZXhwIjoxNzQ4ODA2OTUxfQ.TqA7_eRllCwLu9aDHq63k6VNNjfLy3XgVrvOTeZbl5I"
+  },
+  {
+    "name": " ARROBA FM 88.7 (GDL) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco",
+    "latitude": 20.674349443390476,
+    "longitude": -103.33989143371583,
+    "country": "Mexico",
+    "city": "Guadalajara, Jalisco",
+    "stream_url": "https://stream-156.zeno.fm/es06s1g9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlczA2czFnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNU5xMVFXNG9RNVM4MG9kZTR5dUVWUSIsImlhdCI6MTc0ODg2NjY5MiwiZXhwIjoxNzQ4ODY2NzUyfQ.qdAnMFBLAWFBO3B7GXyJLxLemuSYMn6ihrSTBdZhYlc"
+  },
+  {
+    "name": " ARROBA FM 89.3 (Poza Rica) - 89.3 FM - XHRRR-FM - Radiorama Poza Rica - Poza Rica, Veracruz",
+    "latitude": 20.532789082779132,
+    "longitude": -97.454309463501,
+    "country": "Mexico",
+    "city": "Poza Rica, Veracruz",
+    "stream_url": "https://stream-155.zeno.fm/dctbwwp9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkY3Rid3dwOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVlc1X0NSNl9ST09CZUpOdEhWNGV4USIsImlhdCI6MTc0ODg2MzE2MCwiZXhwIjoxNzQ4ODYzMjIwfQ.ZtNkMTfgGYhsxtc1hIVMjvF5-2lNcXvzzULONGoUJkE"
+  },
+  {
+    "name": " ARROBA FM 89.9 (Nogales) - 89.9 FM - XHHN-FM - Radiorama Sonora - Nogales, Sonora",
+    "latitude": 31.328385021523868,
+    "longitude": -110.94672203063966,
+    "country": "Mexico",
+    "city": "Nogales, Sonora",
+    "stream_url": "https://stream-158.zeno.fm/y3428gfzbfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5MzQyOGdmemJmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYS0zTjVfcWpUX1NNOWlkWWNUNWJqZyIsImlhdCI6MTc0ODg1OTIxMiwiZXhwIjoxNzQ4ODU5MjcyfQ.P9J9MdzpTq5FxsItNJx-H-If8odut52kuIho1vPUQzk"
+  },
+  {
+    "name": " ARROBA FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos",
+    "latitude": 18.923461973971936,
+    "longitude": -99.23426628112794,
+    "country": "Mexico",
+    "city": "Cuernavaca, Morelos",
+    "stream_url": "https://stream-160.zeno.fm/yt2efgg9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dDJlZmdnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRENpUk1nbWJSV3lBVUZLdFhxMGdCdyIsImlhdCI6MTc0ODg0NjMyOCwiZXhwIjoxNzQ4ODQ2Mzg4fQ.4ofIkdZQIUmzLlKuQzPIyTPNoqDqzthNUCCBDI0Hbl0"
+  },
+  {
+    "name": " ARROBA FM 93.5 (Tampico) - 93.5 FM - XHPP-FM - Radiorama Tamaulipas - Tampico, Tamaulipas",
+    "latitude": 22.216929421339323,
+    "longitude": -97.85599708557127,
+    "country": "Mexico",
+    "city": "Tampico, Tamaulipas",
+    "stream_url": "https://stream-155.zeno.fm/y57qb0p9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NTdxYjBwOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUnR4ZDc4Z1NRdk9hZTNHVnFKeDRBZyIsImlhdCI6MTc0ODg2NDk5NSwiZXhwIjoxNzQ4ODY1MDU1fQ.GzLUfgpyx03mv5x0TOBK4Pnj8XXJURvA9gGQa_upeZo"
+  },
+  {
+    "name": " ARROBA FM 95.3 (Reynosa) - 95.3 FM - XHRT-FM - Radiorama Tamaulipas - Reynosa, Tamaulipas",
+    "latitude": 26.090941029106716,
+    "longitude": -98.2814598083496,
+    "country": "Mexico",
+    "city": "Reynosa, Tamaulipas",
+    "stream_url": "https://stream-153.zeno.fm/b04err5zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMDRlcnI1emZraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjdJWjFGeWJSeTYtaTZPTFY0THN6dyIsImlhdCI6MTc0ODg0NDE3OCwiZXhwIjoxNzQ4ODQ0MjM4fQ._8yh04kxibyv86OJfG3xYLZ4Qjhq7pPNrMGAcxeUGcI"
+  },
+  {
+    "name": " ARROBA FM 96.1 (Puebla) - 96.1 FM - XHEZAR-FM - Radiorama Puebla - Puebla, Puebla",
+    "latitude": 19.045167136747004,
+    "longitude": -98.19906234741212,
+    "country": "Mexico",
+    "city": "Puebla, Puebla",
+    "stream_url": "https://stream-154.zeno.fm/pfyc6yp9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZnljNnlwOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVnZ6VHVLdEdRdC05SEgyVVlfWEg5USIsImlhdCI6MTc0ODY0NDA3NiwiZXhwIjoxNzQ4NjQ0MTM2fQ.Uo8O3N_rcCk0eSM8ywb0zU1Q1GmhGX5G5Ezpapajs2o"
+  },
+  {
+    "name": " ARROBA FM 98.5 (Tepic) - 98.5 FM - XHEPIC-FM - Radiorama Nayarit - Tepic, Nayarit",
+    "latitude": 21.513251378976847,
+    "longitude": -104.89119529724124,
+    "country": "Mexico",
+    "city": "Tepic, Nayarit",
+    "stream_url": "https://stream-159.zeno.fm/csvzw6ypu98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjc3Z6dzZ5cHU5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRHV6Z2dJdzFUcHFxSWVBUjB5RWc1QSIsImlhdCI6MTc0ODg2NTgwOCwiZXhwIjoxNzQ4ODY1ODY4fQ.NtH8EML5ECHkECkxy0uHJGtOFrLGnnZwSk9olMbosJY"
+  },
+  {
+    "name": " ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango",
+    "latitude": 24.024755278153265,
+    "longitude": -104.65456008911134,
+    "country": "Mexico",
+    "city": "Durango, Durango",
+    "stream_url": "https://stream-157.zeno.fm/pp1aypg9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwcDFheXBnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXVZNnk0UGFTVlc5V0pEYi03UTA5QSIsImlhdCI6MTc0ODg1ODQ5NCwiZXhwIjoxNzQ4ODU4NTU0fQ.W1YiDRTXFkx9jl4PswViGZzCkIAGi_7zSw0jEVFoexg"
+  },
+  {
+    "name": " Bremen Zwei NEU",
+    "latitude": 53.079067535458144,
+    "longitude": 8.805541992187502,
+    "country": "Germany",
+    "city": "Bremen",
+    "stream_url": "https://d111.rndfnk.com/ard/rb/bremenzwei/live/mp3/128/stream.mp3?cid=01FC1W5VF6FKTYZ6QVPEDGQZYJ&sid=2xwmZ3KtFBzlxDRnhf1hRF3LLdc&token=RcHwm4QE2T2mQTRwZNcPtndP0ChxZ1BzkWq3mdywkaE&tvf=Jgrc1VRERRhkMTExLnJuZGZuay5jb20"
+  },
+  {
+    "name": " CANDELA 91.1 (Uruapan) - 91.1 FM - XHFN-FM - Cadena RASA - Uruapan, Michoacán",
+    "latitude": 19.416373486795777,
+    "longitude": -102.05208778381348,
+    "country": "Mexico",
+    "city": "Uruapan, Michoacán",
+    "stream_url": "http://sp3.servidorrprivado.com:3334/stream"
+  },
+  {
+    "name": " DIGIMIX 95 95.9 (La Paz) - 95.9 FM - XHPAL-FM - Promomedios California - La Paz, Baja California",
+    "latitude": 24.162343330311952,
+    "longitude": -110.3156089782715,
+    "country": "Mexico",
+    "city": "La Paz, Baja California Sur",
+    "stream_url": "https://stream-171.zeno.fm/pgs4nreif6yvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZ3M0bnJlaWY2eXZ2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ2JYME5uOGdSb0d3WldoUE1aTjVXdyIsImlhdCI6MTc0ODg1OTQzNywiZXhwIjoxNzQ4ODU5NDk3fQ.C_W4Nen6vYBszVI86F65Gf8v0uHuW_Yid7c86wKEooY"
+  },
+  {
+    "name": " DIGITAL 103.1 (Ciudad Acuña) - 103.1 FM - XHKD-FM - RCG Media - Ciudad Acuña, Coahuila",
+    "latitude": 29.325732729373403,
+    "longitude": -100.93457221984865,
+    "country": "Mexico",
+    "city": "Ciudad Acuña, Coahuila",
+    "stream_url": "https://radio.rcg.com.mx:7005/stream"
+  },
+  {
+    "name": " DIGITAL 89 89.5 (Tonalá) - 89.5 FM - XHNAL-FM - Radio Chiapas - Tonalá, Chiapas",
+    "latitude": 16.09082682815858,
+    "longitude": -93.75582218170167,
+    "country": "Mexico",
+    "city": "Tonalá, Chiapas",
+    "stream_url": "http://streamingcwsradio10.com:9346/;"
+  },
+  {
+    "name": " EL HERALDO RADIO 106.5 (Istmo) - 106.5 FM - XHSCCK- FM - Heraldo Media Group - Salina Cruz, Oaxaca",
+    "latitude": 16.184925126651322,
+    "longitude": -95.1984214782715,
+    "country": "Mexico",
+    "city": "Salina Cruz, Oaxaca",
+    "stream_url": "https://s1.voscast.com:10827/stream.mp3"
+  },
+  {
+    "name": " EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán",
+    "latitude": 20.344769034970003,
+    "longitude": -102.02998638153078,
+    "country": "Mexico",
+    "city": "Lázaro Cárdenas, Michoacán",
+    "stream_url": "https://live.zuperdns.net/1961/stream"
+  },
+  {
+    "name": " EL LOBO DE MINA 100.9 (Minatitlán) - 100.9 FM - XHMTV-FM - Grupo Radio Mina - Minatitlán, Veracruz",
+    "latitude": 17.99563680124332,
+    "longitude": -94.55709457397462,
+    "country": "Mexico",
+    "city": "Minatitlán, Veracruz",
+    "stream_url": "https://streaming.servicioswebmx.com/8246/stream"
+  },
+  {
+    "name": " EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila",
+    "latitude": 25.76124011418394,
+    "longitude": -102.98377990722656,
+    "country": "Mexico",
+    "city": "San Pedro, Coahuila",
+    "stream_url": "https://stream-162.zeno.fm/pwezjsgefu9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwd2V6anNnZWZ1OXR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickV0VzU4MkdSZVNPd3NtYjA5b0wtZyIsImlhdCI6MTc0ODg2MDUwMiwiZXhwIjoxNzQ4ODYwNTYyfQ._Y4qQaYlBU-lxionsVjNLFMjA5jl_qgZjQdMV6h87Mo"
+  },
+  {
+    "name": " EL VIEJÓN 99.5 (Torreón) - 99.5 FM - XHGZ-FM - GPS Media - Torreón, Coahuila",
+    "latitude": 25.544669120523103,
+    "longitude": -103.41083049774171,
+    "country": "Mexico",
+    "city": "Torreón, Coahuila",
+    "stream_url": "http://stream-160.zeno.fm/lhvgzgkoofstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsaHZnemdrb29mc3R2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQUw3Y0tYWnBTNC1Ga2ZRMDFaUUVKdyIsImlhdCI6MTc0ODgyMjMxNSwiZXhwIjoxNzQ4ODIyMzc1fQ.tINTmhlpIIBoVdNoDpwaAgqQzR_eHq8lztlhnXePrjg"
+  },
+  {
+    "name": " EL Y ELLA 103.7 (Celaya) - 103.7 FM - XHCEL-FM - Corporación Bajío Comunicaciones - Celaya, Guanajuato",
+    "latitude": 20.522178818388227,
+    "longitude": -100.81440925598146,
+    "country": "Mexico",
+    "city": "Celaya, Guanajuato",
+    "stream_url": "https://radios.radiohd.com.mx/8272/stream"
+  },
+  {
+    "name": " ESPN 1320 - Sacramento",
+    "latitude": 38.59469162485525,
+    "longitude": -121.48681640625,
+    "country": "The United States Of America",
+    "city": "California",
+    "stream_url": "https://prod-54-167-220-243.amperwave.net/audacy-kifmamaac-llhlsc.m3u8"
+  },
+  {
+    "name": " ESTÉREO TIEMPO 100.3 (Monclova) - 100.3 FM - XHTF-FM - Monclova, Coahuila",
+    "latitude": 26.90228792326377,
+    "longitude": -101.41797065734865,
+    "country": "Mexico",
+    "city": "Monclova, Coahuila",
+    "stream_url": "https://stream9.mexiserver.com/8246/stream"
+  },
+  {
+    "name": " ESTÉREO VIDA 93.1 (Ciudad del Carmen) - 93.1 FM - XHPEBS-FM - Ciudad del Carmen, Campeche",
+    "latitude": 18.6549899492837,
+    "longitude": -91.81488990783691,
+    "country": "Mexico",
+    "city": "Ciudad del Carmen, Campeche",
+    "stream_url": "https://stream-159.zeno.fm/5y45gqtbcchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1eTQ1Z3F0YmNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibVV3cUFhY05RZFdYY0psVU1YMzI0QSIsImlhdCI6MTc0ODg1ODg4MiwiZXhwIjoxNzQ4ODU4OTQyfQ.pRHytUM__-F4DpyCzFLn_72Elh55hPjmyevAP4j8DJY"
+  },
+  {
+    "name": " EUFORIA 104.9 (Nuevo Casas Grandes) - 104.9 FM - XHNVG-FM - JB Multimedia - Nuevo Casas Grandes, Chihuahua",
+    "latitude": 30.41989069417373,
+    "longitude": -107.90651321411134,
+    "country": "Mexico",
+    "city": "Nuevo Casas Grandes, Chihuahua",
+    "stream_url": "https://stream-150.zeno.fm/usrf978ub84tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1c3JmOTc4dWI4NHR2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiei0xRDZzWHZRNVd3a2FrNHBUSmZfUSIsImlhdCI6MTc0ODg2Nzc4MCwiZXhwIjoxNzQ4ODY3ODQwfQ.6w54c24moxM2Ui26R0Wg_9yKw6el0_osjpGXMaqX7hU"
+  },
+  {
+    "name": " EUFORIA 92.9 (Cuauhtémoc) - 92.9 FM - XHER-FM - JB Multimedia - Cuauhtémoc, Chihuahua",
+    "latitude": 28.401331436556863,
+    "longitude": -106.86856269836426,
+    "country": "Mexico",
+    "city": "Cuauhtémoc, Chihuahua",
+    "stream_url": "https://stream-141.zeno.fm/wvrc9yr2974tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3dnJjOXlyMjk3NHR2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjJfU0x6QldTdWlJM1lpb1lWaDVWUSIsImlhdCI6MTc0ODg2MTA3MSwiZXhwIjoxNzQ4ODYxMTMxfQ.JyWwcGUx9YnQ8CI_Dikp9pd2-z43dksNOjlgPz3QXUI"
+  },
+  {
+    "name": " EUFORIA 98.5 (Parral) - 98.5 FM - XHJS-FM - VMedia Comunicaciones - Parral, Chihuahua",
+    "latitude": 26.92993415533806,
+    "longitude": -105.6680488586426,
+    "country": "Mexico",
+    "city": "Parral, Chihuahua",
+    "stream_url": "https://stream-178.zeno.fm/2ry52hly8bpvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnk1MmhseThicHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjJLdUdhZ2lSQS1FdVlicnJjcllLQSIsImlhdCI6MTc0ODg2NjM5MiwiZXhwIjoxNzQ4ODY2NDUyfQ._955kiP61fKk6xHNQXxJQr5zAiKNuwFMa_ZQjCibnxQ"
+  },
+  {
+    "name": " EXA FM 100.3 (Campeche) - 100.3 FM - XHMI-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, Campeche",
+    "latitude": 19.83950658302223,
+    "longitude": -90.51884651184083,
+    "country": "Mexico",
+    "city": "Campeche, Campeche",
+    "stream_url": "https://26293.live.streamtheworld.com:443/XHMIAAC.aac"
+  },
+  {
+    "name": " EXA FM 89.9 (La Piedad) - 89.9 FM - XHLP-FM - Guizar Comunicación Integral - La Piedad, Michoacán",
+    "latitude": 20.345876838406618,
+    "longitude": -102.03045845031738,
+    "country": "Mexico",
+    "city": "La Piedad, Michoacán",
+    "stream_url": "https://stream-154.zeno.fm/fc7ydby53hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmYzd5ZGJ5NTNoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnU0QjJPV3FROGkwZjdoajY0Ql95QSIsImlhdCI6MTc0ODg2ODExOSwiZXhwIjoxNzQ4ODY4MTc5fQ.Eu9vNpDYmsTWD8Cw-SvbOmjyfFZrguCQZnd1UROn73Y"
+  },
+  {
+    "name": " EXA FM 89.9 (Puerto Vallarta) - 89.9 FM - XHCCBB-FM - Álica Medios - Puerto Vallarta, Jalisco",
+    "latitude": 20.641903413542163,
+    "longitude": -105.22061347961429,
+    "country": "Mexico",
+    "city": "Puerto Vallarta, Jalisco",
+    "stream_url": "https://17793.live.streamtheworld.com:443/XHCCBB.mp3"
+  },
+  {
+    "name": " EXA FM 90.5 (Acámbaro) - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+    "latitude": 20.030130159009342,
+    "longitude": -100.72338581085206,
+    "country": "Mexico",
+    "city": "Acámbaro, Guanajuato",
+    "stream_url": "https://radios.radiohd.com.mx:7140/;"
+  },
+  {
+    "name": " EXA FM 93.3 (Veracruz) - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, Veracruz",
+    "latitude": 19.1539541934336,
+    "longitude": -96.10880881547928,
+    "country": "Mexico",
+    "city": "Veracruz, Veracruz",
+    "stream_url": "https://18813.live.streamtheworld.com:443/XHPSFMAAC.aac"
+  },
+  {
+    "name": " EXA FM 98.1 (Guasave) - 98.1 FM - XHGSE-FM - Grupo RSN - Guasave, Sinaloa",
+    "latitude": 25.57581921682785,
+    "longitude": -108.4657859802246,
+    "country": "Mexico",
+    "city": "Guasave, Sinaloa",
+    "stream_url": "https://a6.asurahosting.com:8020/radio.mp3"
+  },
+  {
+    "name": " EXA FM 98.3 (El Paso) - 98.3 FM - XHPX-FM - MVS Radio - Ciudad Juárez, Chihuahua",
+    "latitude": 31.762893202020155,
+    "longitude": -106.45103931427003,
+    "country": "Mexico",
+    "city": "Ciudad Juárez, Chihuahua",
+    "stream_url": "https://26113.live.streamtheworld.com:443/XHPXAAC.aac"
+  },
+  {
+    "name": " EXA FM 98.5 (Tuxtla) - 98.5 FM - XHCQ-FM - Valanci Media Group - Tuxtla Gutiérrez, CHiapas",
+    "latitude": 16.756347507707144,
+    "longitude": -93.1153964996338,
+    "country": "Mexico",
+    "city": "Tuxtla Gutiérrez, Chiapas",
+    "stream_url": "https://24073.live.streamtheworld.com:443/XHCQ.mp3"
+  },
+  {
+    "name": " EXA FM 98.9 (Los Mochis) - 98.9 FM - XHMPM-FM - Grupo RSN - Los Mochis, Sinaloa",
+    "latitude": 25.79398190824005,
+    "longitude": -108.98961067199708,
+    "country": "Mexico",
+    "city": "Los Mochis, Sinaloa",
+    "stream_url": "https://20603.live.streamtheworld.com:443/XHMPMAAC.aac"
+  },
+  {
+    "name": " EXA FM 99.3 (Acapulco) - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero",
+    "latitude": 16.868745044030753,
+    "longitude": -99.89378929138184,
+    "country": "Mexico",
+    "city": "Acapulco, Guerrero",
+    "stream_url": "https://14553.live.streamtheworld.com:443/XHNQAAC.aac"
+  },
+  {
+    "name": " Exa FM Ciudad Mante - 91.9 FM - XHRLM-FM - ORT Radio - Ciudad Mante, Tamaulipas",
+    "latitude": 22.742744092152385,
+    "longitude": -98.97162437438966,
+    "country": "Mexico",
+    "city": "Ciudad Mante, Tamaulipas",
+    "stream_url": "https://s01.digitalserver.org:7034/;"
+  },
+  {
+    "name": " Exclusively Madonna",
+    "latitude": 14.153620546917876,
+    "longitude": 41.42944335937501,
+    "country": "The United Arab Emirates",
+    "city": "Dubai",
+    "stream_url": "https://nl4.mystreaming.net:443/er/madonna/icecast.audio"
+  },
+  {
+    "name": " EXTREMO FM 97.3 (Villahermosa) - 97.3 FM - XHVB-FM - Radio Núcleo - Villahermosa, Tabasco",
+    "latitude": 17.99139189370157,
+    "longitude": -92.93764114379884,
+    "country": "Mexico",
+    "city": "Villahermosa, Tabasco",
+    "stream_url": "https://stream.freepi.io/8330/live"
+  },
+  {
+    "name": " FANTASÍA W RADIO 89.1 - 89.1 FM - XHZTM-FM - Zitácuaro, Michoacán",
+    "latitude": 19.435314518934717,
+    "longitude": -100.3560733795166,
+    "country": "Mexico",
+    "city": "Zitácuaro, Michoacán",
+    "stream_url": "https://streamingcwsradio30.com/8216/stream"
+  },
+  {
+    "name": " FIESTA MEXICANA (Autlán) - 90.9 FM - XHANV-FM - Promosat de México - Autlán, Jalisco",
+    "latitude": 19.77506589583287,
+    "longitude": -104.3676280975342,
+    "country": "Mexico",
+    "city": "Autlán, Jalisco",
+    "stream_url": "https://stream-154.zeno.fm/2r1xxtznq68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycjF4eHR6bnE2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTndpZkJmSlJTT1dadVZ4RjFEVlZFUSIsImlhdCI6MTc0ODg0NzEyMCwiZXhwIjoxNzQ4ODQ3MTgwfQ.Auco1Ch99SkHSJGUJPtKPdqABiPnF5egW9EZFPxKvdw"
+  },
+  {
+    "name": " FIESTA MEXICANA 101.5 (Nuevo Laredo) - 101.5 FM - XHAS-FM - Radiorama Nuevo Laredo - Nuevo Laredo, Tamaulipas",
+    "latitude": 27.493770638636416,
+    "longitude": -99.50566291809083,
+    "country": "Mexico",
+    "city": "Nuevo Laredo, Tamaulipas",
+    "stream_url": "https://server2.sit-mexico.com:2199/proxy/fiestamexicana?mp=/stream/"
+  },
+  {
+    "name": " FIESTA MEXICANA 92.9 (Salvatierra) - 92.9 FM - XHFAC-FM - Radiorama Bajío - Salvatierra, Guanajuato",
+    "latitude": 20.21384028553613,
+    "longitude": -100.87895393371583,
+    "country": "Mexico",
+    "city": "Salvatierra, Guanajuato",
+    "stream_url": "https://stream-158.zeno.fm/ys3uakk6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5czN1YWtrNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY1lJLXlqOFdTNXlGU2pIcFhDVEM4QSIsImlhdCI6MTc0ODg3NDA5NiwiZXhwIjoxNzQ4ODc0MTU2fQ.b5hfgXlHxx8inzlj6ReXrtT2hAf5ttrPL2tzij3aqmY"
+  },
+  {
+    "name": " FIESTA MEXICANA 94.5 (Delicias) - 94.5 FM - XHCDS-FM - Promosat Chihuahua - Delicias, Chihuahua",
+    "latitude": 28.1922932685919,
+    "longitude": -105.46746253967284,
+    "country": "Mexico",
+    "city": "Delicias, Chihuahua",
+    "stream_url": "https://strcdn.klm99.com/8132/stream"
+  },
+  {
+    "name": " GİMSA RADYO",
+    "latitude": 39.966251414518354,
+    "longitude": 32.58068561553956,
+    "country": "Türkiye",
+    "city": "Ankara",
+    "stream_url": "http://yayin1.canliyayin.org:9482/stream"
+  },
+  {
+    "name": " Globo 101.9 (Mexicali) - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, Baja California",
+    "latitude": 32.64213037169736,
+    "longitude": -115.47763824462892,
+    "country": "Mexico",
+    "city": "Mexicali, Baja California",
+    "stream_url": "https://18853.live.streamtheworld.com:443/XHPFFMAAC.aac"
+  },
+  {
+    "name": " Globo 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz",
+    "latitude": 18.89585449449637,
+    "longitude": -96.93589210510255,
+    "country": "Mexico",
+    "city": "Córdoba, Veracruz",
+    "stream_url": "http://hd.digitalradio.mx:5906/;stream"
+  },
+  {
+    "name": " Globo 95.9 (Maravatío) - 95.9 FM - XHCCBE-FM - Maravatío, Michoacán",
+    "latitude": 19.89449744694258,
+    "longitude": -100.4423761367798,
+    "country": "Mexico",
+    "city": "Maravatío, Michoacán",
+    "stream_url": "https://stream-160.zeno.fm/mefi7y11grwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZWZpN3kxMWdyd3R2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSkQwM19MemZSMGFZODZvNXVxaWtsUSIsImlhdCI6MTc0ODg2NjIwMCwiZXhwIjoxNzQ4ODY2MjYwfQ.8cRJyctCH5wkDaHTcjadgnoU4cDA7_Zdhns7TXIzWmg"
+  },
+  {
+    "name": " GLOBO 97.9 (Mazatlán) - 97.9 FM - XHMMS-FM - Grupo RSN - Mazatlán, Sinaloa",
+    "latitude": 23.20691929418352,
+    "longitude": -106.41777992248537,
+    "country": "Mexico",
+    "city": "Mazatlán, Sinaloa",
+    "stream_url": "https://a6.asurahosting.com:8130/radio.mp3"
+  },
+  {
+    "name": " Globo 98.5 (Zihuatanejo) - 98.5 FM - XHZHO-FM - Pegaso Radiocomunicaciones - Zihuatanejo, Guerrero",
+    "latitude": 17.647519924683486,
+    "longitude": -101.55216693878177,
+    "country": "Mexico",
+    "city": "Guerrero",
+    "stream_url": "https://cast1.my-control-panel.com/proxy/miguel12/stream"
+  },
+  {
+    "name": " Globo 99.3 (Tijuana) - 99.3 FM - XHOCL-FM - MVS Radio - Tijuana, Baja California",
+    "latitude": 32.533721180216965,
+    "longitude": -117.02035903930664,
+    "country": "Mexico",
+    "city": "Tijuana, Baja California",
+    "stream_url": "https://26293.live.streamtheworld.com:443/XHOCLAAC.aac"
+  },
+  {
+    "name": " Győr+ Rádió ",
+    "latitude": 47.67608399596861,
+    "longitude": 17.654590363993083,
+    "country": "Hungary",
+    "city": "Győr-Moson-Sopron",
+    "stream_url": "https://stream.42netmedia.com:8443/sc_gyor1"
+  },
+  {
+    "name": " ISTMO 94.9 (Acayucan) - 94.9 FM - XHPTEA-FM - Acayucan, Veracruz",
+    "latitude": 17.950570265531564,
+    "longitude": -94.91586685180664,
+    "country": "Mexico",
+    "city": "Acayucan, Veracruz",
+    "stream_url": "https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream"
+  },
+  {
+    "name": " Kiss FM (Chetumal) - 95.3 FM - XHROO-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo",
+    "latitude": 18.515892746010813,
+    "longitude": -88.30050945281982,
+    "country": "Mexico",
+    "city": "Quintana Roo",
+    "stream_url": "https://cast4.asurahosting.com/proxy/radiocan/stream"
+  },
+  {
+    "name": " LA BESTIA GRUPERA 99.7 (Chilpancingo) - 99.7 FM - XHEPI-FM - Grupo Audiorama Comunicaciones - Chilpancingo, Guerrero",
+    "latitude": 17.555461883902055,
+    "longitude": -99.50549125671388,
+    "country": "Mexico",
+    "city": "Chilpancingo, Guerrero",
+    "stream_url": "https://sg.centrocibernetico.com/audiorama-xhepi"
+  },
+  {
+    "name": " LA CALIENTE 105.7 (Linares) - 105.7 FM - XHR-FM - Multimedios Radio - Linares, Nuevo León",
+    "latitude": 24.86070326162865,
+    "longitude": -99.56866264343265,
+    "country": "Mexico",
+    "city": "Linares, Nuevo León",
+    "stream_url": "https://22213.live.streamtheworld.com:443/XERAMAAC.aac"
+  },
+  {
+    "name": " LA CAMPERA 92.9 (Jiménez) - 92.9 FM - XHJZ-FM - VMedia Comunicaciones - Jiménez, Chihuahua",
+    "latitude": 27.126638552339102,
+    "longitude": -104.91265296936037,
+    "country": "Mexico",
+    "city": "Jiménez, Chihuahua",
+    "stream_url": "https://stream-175.zeno.fm/4nmspyoqrjdvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bm1zcHlvcXJqZHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTkswZmcxT2lRcVNQcjlSOGNELUZaZyIsImlhdCI6MTc0ODg2OTE5MCwiZXhwIjoxNzQ4ODY5MjUwfQ.75JlThIgIPplS_3Z89rqsvWcGdSF2khX6YstkUkCqJU"
+  },
+  {
+    "name": " LA COMADRE 100.3 (Orizaba) - 100.3 FM - XHPP-FM - Valanci Media Group - Orizaba, Veracruz",
+    "latitude": 18.85134815050279,
+    "longitude": -97.1060085296631,
+    "country": "Mexico",
+    "city": "Orizaba, Veracruz",
+    "stream_url": "http://hd.digitalradio.mx:6121/lacomadreorizaba"
+  },
+  {
+    "name": " LA COMADRE 101.7 (Cuautla) - 101.7 FM - XHCUT-FM - Grupo Diario de Morelos - Cuautla, Morelos",
+    "latitude": 18.830552818135615,
+    "longitude": -98.94278526306154,
+    "country": "Mexico",
+    "city": "Cuautla, Morelos",
+    "stream_url": "https://cdn4.onstream.audio/proxy/lacomadre/stream"
+  },
+  {
+    "name": " LA COMADRE 104.5 (Pachuca) - 104.5 FM - XHRD-FM - Grupo ACIR - Pachuca, Hidalgo",
+    "latitude": 20.118408824003563,
+    "longitude": -98.74048233032228,
+    "country": "Mexico",
+    "city": "Pachuca, Hidalgo",
+    "stream_url": "https://25013.live.streamtheworld.com:443/XHRDAAC.aac"
+  },
+  {
+    "name": " LA COMADRE 105.5 (Puebla) - 105.5 FM - XHHIT-FM - Grupo ACIR - Puebla, Puebla",
+    "latitude": 19.04471837223963,
+    "longitude": -98.19777488708498,
+    "country": "Mexico",
+    "city": "Puebla",
+    "stream_url": "https://25013.live.streamtheworld.com:443/XEHITAAC.aac"
+  },
+  {
+    "name": " LA COMADRE 106.3 (Irapuato) - 106.3 FM - XHITO-FM - Grupo ACIR - Irapuato, Guanajuato",
+    "latitude": 20.67675852566305,
+    "longitude": -101.3515377044678,
+    "country": "Mexico",
+    "city": "Irapuato, Guanajuato",
+    "stream_url": "https://18433.live.streamtheworld.com:443/XHITOAAC.aac"
+  },
+  {
+    "name": " LA COMADRE 107.1 (Matamoros) - 107.1 FM - XHVTH-FM - Multimedios Radio - Matamoros, Tamaulipas",
+    "latitude": 25.881274881802568,
+    "longitude": -97.50426292419434,
+    "country": "Mexico",
+    "city": "Matamoros, Tamaulipas",
+    "stream_url": "http://18063.live.streamtheworld.com:80/XHVTHFMAAC.aac"
+  },
+  {
+    "name": " LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro",
+    "latitude": 20.696530376362865,
+    "longitude": -99.81546878814696,
+    "country": "Mexico",
+    "city": "Cadereyta, Querétaro",
+    "stream_url": "https://laradiossl.online:10567/;"
+  },
+  {
+    "name": " LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcomán, Michoacán",
+    "latitude": 18.77969089312432,
+    "longitude": -103.16136360168458,
+    "country": "Mexico",
+    "city": "Colima",
+    "stream_url": "https://radios.lunamedios.mx:8308/;"
+  },
+  {
+    "name": " LA KEBUENA 98.5 FM (El Fuerte) - 98.5 FM - XHCCCD-FM - Ap Grupo Radio - El Fuerte, Sinaloa",
+    "latitude": 26.41645222480211,
+    "longitude": -108.61697673797607,
+    "country": "Mexico",
+    "city": "El Fuerte, Sinaloa",
+    "stream_url": "https://stream.soyradioinc.com:8274/stream"
+  },
+  {
+    "name": " LA LUPE 100.9 (Xalapa) - 100.9 FM - XHPALV-FM - Multimedios Radio - Xalapa, Veracruz",
+    "latitude": 19.543214426440393,
+    "longitude": -96.91606521606448,
+    "country": "Mexico",
+    "city": "Xalapa, Veracruz",
+    "stream_url": "https://24073.live.streamtheworld.com:443/XHPALVFMAAC.aac"
+  },
+  {
+    "name": " LA LUPE 89.5 (Fortín) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fortín de las Flores, Veracruz",
+    "latitude": 18.9025131858975,
+    "longitude": -96.9987201690674,
+    "country": "Mexico",
+    "city": "Fortín, Veracruz",
+    "stream_url": "https://18743.live.streamtheworld.com:443/XHFTIFMAAC.aac"
+  },
+  {
+    "name": " LA LUPE 95.3 (Chetumal) - 95.3 FM - XHROO-FM - Multimedios Radio / Grupo SIPSE Radio - Chetumal, Quintana Roo",
+    "latitude": 18.50968809194421,
+    "longitude": -88.29806327819824,
+    "country": "Mexico",
+    "city": "Chetumal, Quintana Roo",
+    "stream_url": "https://cast4.asurahosting.com/proxy/radiocan/stream"
+  },
+  {
+    "name": " LA LUPE 95.3 (Ciudad Victoria) - 95.3 FM - XHLRS-FM - Multimedios Radio - Ciudad Victoria, Tamaulipas",
+    "latitude": 23.7406893367089,
+    "longitude": -99.1439723968506,
+    "country": "Mexico",
+    "city": "Ciudad Victoria, Tamaulipas",
+    "stream_url": "https://18693.live.streamtheworld.com:443/XHLRSFMAAC.aac"
+  },
+  {
+    "name": " LA LUPE 98.1 (Tehuantepec) - 98.1 FM - XHKZ-FM - Multimedios Radio - Tehuantepec, Oaxaca",
+    "latitude": 16.31896693173348,
+    "longitude": -95.24798870086671,
+    "country": "Mexico",
+    "city": "Tehuantepec, Oaxaca",
+    "stream_url": "https://26113.live.streamtheworld.com:443/XHKZFMAAC.aac"
+  },
+  {
+    "name": " LA MEGA 106.1 (Agua Dulce) - 106.1 FM - XHSCID-FM - Comunicación Hidromila - Agua Dulce, Veracruz",
+    "latitude": 18.13800252222248,
+    "longitude": -94.14729595184328,
+    "country": "Mexico",
+    "city": "Agua Dulce, Veracruz",
+    "stream_url": "https://stream-178.zeno.fm/mxi4pryyw4pvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteGk0cHJ5eXc0cHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRXBwaF9YRlJUMFdURW95QndqRlBqQSIsImlhdCI6MTc0ODg1MTExMCwiZXhwIjoxNzQ4ODUxMTcwfQ.-PoaNd1Zb2YMlJCtw4wSzPLHbz9EjqSzMh2-vW06QP4"
+  },
+  {
+    "name": " LA MEXICANA 570 (Oaxaca) - 570 AM - XHEOA-FM - Grupo AS Comunicación - Oaxaca, Oaxaca",
+    "latitude": 17.06298225286101,
+    "longitude": -96.72509193420412,
+    "country": "Mexico",
+    "city": "Oaxaca, Oaxaca",
+    "stream_url": "https://stream-159.zeno.fm/0foxzyrupdutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZm94enlydXBkdXR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNy1XNkc1RkJRUGVaVVQ4ekRWMnFkQSIsImlhdCI6MTc0ODg3NjM1NCwiZXhwIjoxNzQ4ODc2NDE0fQ.euQNGJ41Q9aIneJL8uOcl_6jGzMJL-QegETvI7Uie_4"
+  },
+  {
+    "name": " LA PATRONA 570 (Escuinapa) - 570 AM - XETD-AM - Alica Medios - Escuinapa, Sinaloa",
+    "latitude": 22.835643192362227,
+    "longitude": -105.77765464782716,
+    "country": "Mexico",
+    "city": "Escuinapa, Sinaloa",
+    "stream_url": "http://www.radiohosting.online/stream/?puerto=9884"
+  },
+  {
+    "name": " LA PATRONA 92.7 (Guachochi) - 92.7 FM - XHPCHO-FM - Grupo Bustillos Radio - Guachochi, Chihuahua",
+    "latitude": 26.819993220659388,
+    "longitude": -107.07425594329835,
+    "country": "Mexico",
+    "city": "Guachochi, Chihuahua",
+    "stream_url": "https://streamingcwsradio30.com/8132/stream"
+  },
+  {
+    "name": " LA PATRONA 94.5 (Santiago) - 94.5 FM - XHSI-FM - Alica Medios - Santiago Ixcuintla, Nayarit",
+    "latitude": 21.813119277470875,
+    "longitude": -105.207781791687,
+    "country": "Mexico",
+    "city": "Santiago Ixcuintla, Nayarit",
+    "stream_url": "https://tv.radiohosting.online:8140/stream"
+  },
+  {
+    "name": " LA PODEROSA 93.1 (Tuxpan) - 93.1 FM - XHCRA-FM - Radiorama Tuxpan - Tuxpan, Veracruz",
+    "latitude": 20.953066153680325,
+    "longitude": -97.40349769592288,
+    "country": "Mexico",
+    "city": "Tuxpan, Veracruz",
+    "stream_url": "https://stream-159.zeno.fm/qwmf9kf0fkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxd21mOWtmMGZraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN3ZyT0lMdzFRYTJ6TVNRTmdaaGV6ZyIsImlhdCI6MTc0ODg1NjkxMywiZXhwIjoxNzQ4ODU2OTczfQ.p734t8y9Dj-8vYJAeUN9q8xehkLWwpLinbwNRbcZWJo"
+  },
+  {
+    "name": " LA RANCHERITA 102.3 (La Unión) - 102.3 FM - XHCCAY-FM - La Unión, Guerrero",
+    "latitude": 17.983448999405834,
+    "longitude": -101.80674076080322,
+    "country": "Mexico",
+    "city": "La Unión, Guerrero",
+    "stream_url": "https://sechin.grupocentroserver.com/listen/rancherita/stream"
+  },
+  {
+    "name": " LA RANCHERITA 93.1 (Zirándaro) - 93.1 FM - XHCCAZ-FM - Zirándaro de los Chávez, Guerrero",
+    "latitude": 18.478694519550626,
+    "longitude": -100.9790325164795,
+    "country": "Mexico",
+    "city": "Zirándaro, Guerrero",
+    "stream_url": "https://stream-174.zeno.fm/jdfjj7gtrw3tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqZGZqajdndHJ3M3R2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNGFfeF9tbmhTZGk2U1h6cFZHVjVLZyIsImlhdCI6MTc0ODgyMDU1MiwiZXhwIjoxNzQ4ODIwNjEyfQ.XXlx9BieHg0HG6yXtZi_xUJapJByW-Vp-cEisvFIvak"
+  },
+  {
+    "name": " La Top 102.9 FM - San Pedro Sula, Honduras",
+    "latitude": 15.50955774802629,
+    "longitude": -88.02340507507324,
+    "country": "Honduras",
+    "city": "San Pedro Sula",
+    "stream_url": "https://us9.maindigitalstream.com/ssl/latop102"
+  },
+  {
+    "name": " LA TREMENDA 560 (Santiago Papasquiaro) - 560 AM - XESRD-AM - Grupo Garza Limón - Santiago Papasquiaro, Durango",
+    "latitude": 25.046784891358033,
+    "longitude": -105.42373180389406,
+    "country": "Mexico",
+    "city": "Santiago, Durango",
+    "stream_url": "https://radio.latremenda.com.mx/Santiago"
+  },
+  {
+    "name": " LA UK 570 (Caborca) - 570 AM - XEUK-AM - Grupo Radio Palacios - Caborca, Sonora",
+    "latitude": 30.71756704276133,
+    "longitude": -112.1568489074707,
+    "country": "Mexico",
+    "city": "Caborca, Sonora",
+    "stream_url": "https://s2.mexside.net/lauk953/stream"
+  },
+  {
+    "name": " LA Z 105.5 (Atotonilco) - 105.5 FM - XHHE-FM - XHHE Radio / Grupo Radio Centro - Atotonilco, Jalisco",
+    "latitude": 20.552882263632657,
+    "longitude": -102.5087070465088,
+    "country": "Mexico",
+    "city": "Atotonilco, Jalisco",
+    "stream_url": "https://stream-155.zeno.fm/0q28d4beczctv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcTI4ZDRiZWN6Y3R2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNTVrb0xfTzNSemFZTHJJdm1jT1lSUSIsImlhdCI6MTc0ODg2ODg1MywiZXhwIjoxNzQ4ODY4OTEzfQ.SvBnw-F-kxgbIM1zvasMWQiH0QBRy856QnPPuyzOQ_k"
+  },
+  {
+    "name": " LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima",
+    "latitude": 19.07145197022145,
+    "longitude": -104.29887771606448,
+    "country": "Mexico",
+    "city": "Manzanillo, Colima",
+    "stream_url": "https://live.zuperdns.net/1895/stream/"
+  },
+  {
+    "name": " LUPE 93.3 (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, Zacatecas",
+    "latitude": 22.747968377207364,
+    "longitude": -102.51780509948732,
+    "country": "Mexico",
+    "city": "Guadalupe, Zacatecas",
+    "stream_url": "https://cast.zuperdns.net/8010/stream/"
+  },
+  {
+    "name": " M80 Rádio – 60s",
+    "latitude": 38.63001354295032,
+    "longitude": -9.107666015625002,
+    "country": "Portugal",
+    "city": "Lisbon",
+    "stream_url": "https://stream-icy.bauermedia.pt/m8060.aac"
+  },
+  {
+    "name": " MAR FM 99.7 (Veracruz) - 99.7 FM - XHPB-FM - Grupo FM Multimedios - Boca del Río, Veracruz",
+    "latitude": 19.15304862255229,
+    "longitude": -96.10587716102602,
+    "country": "Mexico",
+    "city": "Boca del Río, Veracruz",
+    "stream_url": "https://stream-157.zeno.fm/eyh5yzn3f78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleWg1eXpuM2Y3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM3JnQ3drM3ZSaUdvdUIzbUg3bkdiQSIsImlhdCI6MTc0ODg3NTkyNywiZXhwIjoxNzQ4ODc1OTg3fQ.zB5pj2Kgk0eZ1i3aQAXNxj2TzL_HENRC6xZY59Y8PuQ"
+  },
+  {
+    "name": " MIX 580 (Cancún) - 580 AM - XEYI-AM - Grupo ACIR - Cancún, Quintana Roo",
+    "latitude": 21.15648350579265,
+    "longitude": -86.83988571166994,
+    "country": "Mexico",
+    "city": "Cancún, Quintana Roo",
+    "stream_url": "https://14923.live.streamtheworld.com:443/XHYIFMAAC.aac"
+  },
+  {
+    "name": " Most 105.8 FM Jakarta",
+    "latitude": -6.232029472638188,
+    "longitude": 106.81732177734376,
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "stream_url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8"
+  },
+  {
+    "name": " NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA",
+    "latitude": 34.05589721073465,
+    "longitude": -118.24284553527832,
+    "country": "The United States Of America",
+    "city": "Los Angeles, California",
+    "stream_url": "https://14983.live.streamtheworld.com:443/KWKWAMAAC.aac"
+  },
+  {
+    "name": " RADIO ALTIPLANO 96.5 (Tlaxcala) - 96.5 FM - XHTLAX-FM - CORACYT - Tlaxcala, Tlaxcala",
+    "latitude": 19.318395365731153,
+    "longitude": -98.23948860168458,
+    "country": "Mexico",
+    "city": "Tlaxcala, Tlaxcala",
+    "stream_url": "https://radio11.mega00.com/8018/stream"
+  },
+  {
+    "name": " RADIO BANANA 98.3 (Rafael Delgado) - 98.3 FM - XHRAF-FM - Cultura es lo Nuestro, AC - Rafael Delgado, Veracruz",
+    "latitude": 18.81072987088543,
+    "longitude": -97.07219123840332,
+    "country": "Mexico",
+    "city": "Rafael Delgado, Veracruz",
+    "stream_url": "https://s5.mexside.net:1936/radiobanana/radiobanana/playlist.m3u8"
+  },
+  {
+    "name": " Radio DAŠ",
+    "latitude": 44.760998967284024,
+    "longitude": 19.210584461688995,
+    "country": "Bosnia And Herzegovina",
+    "city": "Republic of Srpska",
+    "stream_url": "http://158.69.119.6:8095/;&type=mp3"
+  },
+  {
+    "name": " RADIO DISNEY 102.1 (Toluca) - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de México",
+    "latitude": 19.29490426612332,
+    "longitude": -99.65706825256348,
+    "country": "Mexico",
+    "city": "Toluca, Estado de México",
+    "stream_url": "https://17643.live.streamtheworld.com:443/XHTOMFMAAC.aac"
+  },
+  {
+    "name": " RADIO ERANDI 107.1 (Tangancícuaro) - 107.1 FM - XHTGAN-FM - AMARC / Radio Erandi, A.C. - Tangancícuaro de Arista, Michoacán",
+    "latitude": 19.888767048082055,
+    "longitude": -102.2056818008423,
+    "country": "Mexico",
+    "city": "Tangancícuaro de Arista, Michoacán",
+    "stream_url": "http://uk15freenew.listen2myradio.com:34365/;stream.nsv"
+  },
+  {
+    "name": " RADIO FÓRMULA 88.7 (Querétaro) - 88.7 FM - XHJX-FM - Grupo Fórmula - Querétaro, Querétaro",
+    "latitude": 20.594506924639365,
+    "longitude": -100.39177894592288,
+    "country": "Mexico",
+    "city": "Querétaro, Querétaro",
+    "stream_url": "http://n12.radiojar.com/qpv58fef3p8uv?rj-ttl=5&rj-tok=AAABlzDAI-sAeoIiRx3FsTLWsg"
+  },
+  {
+    "name": " RADIO IMER 94.9 (Comitán) - 94.9 FM - XHEMIT-FM - IMER - Comitán, Chiapas",
+    "latitude": 16.245457332183335,
+    "longitude": -92.13366508483888,
+    "country": "Mexico",
+    "city": "Comitán, Chiapas",
+    "stream_url": "https://s2.mexside.net/8050/stream"
+  },
+  {
+    "name": " RADIO KAÑÓN 89.7 (Álamo) - 89.7 FM - XHID-FM - Radio Comunicación de Álamo - Álamo, Veracruz",
+    "latitude": 20.917473094306377,
+    "longitude": -97.67558097839355,
+    "country": "Mexico",
+    "city": "Álamo, Veracruz",
+    "stream_url": "https://streaming.servicioswebmx.com/8250/stream"
+  },
+  {
+    "name": " Radio Rouge Italy",
+    "latitude": 42.5271774196773,
+    "longitude": 14.062500000000002,
+    "country": "Italy",
+    "city": " Campania",
+    "stream_url": "https://nl1.streamingpulse.com/ssl/radiorougeitaly"
+  },
+  {
+    "name": " RADIO TEOCELO 1490 (Teocelo) - 1490 AM - XEYTM-AM - Teocelo, Veracruz",
+    "latitude": 19.386114606668713,
+    "longitude": -96.97318553924562,
+    "country": "Mexico",
+    "city": "Teocelo, Veracruz",
+    "stream_url": "https://cast6.asurahosting.com/proxy/zeferino/stream"
+  },
+  {
+    "name": " RADIO UNIVERSIDAD DE GDL 105.5 (Ameca) - 105.5 FM - XHUGA-FM - Universidad de Guadalajara - Ameca, Jalisco",
+    "latitude": 20.538576189584223,
+    "longitude": -104.03855323791504,
+    "country": "Mexico",
+    "city": "Ameca, Jalisco",
+    "stream_url": "https://stream-153.zeno.fm/cu717gz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdTcxN2d6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEtfVFZRTDhTMGlndldLamVlc0ZtZyIsImlhdCI6MTc0ODg3MzE0MiwiZXhwIjoxNzQ4ODczMjAyfQ.oSda34pz0sRzq-wkXkx2rkSbDf7jiOVk_USzGUB2nCI"
+  },
+  {
+    "name": " RADIO XICOTEPEC 570 (Xicotepec) - 570 AM - XEVJP-AM - Xicotepec, Puebla",
+    "latitude": 20.27906751293053,
+    "longitude": -97.96002388000488,
+    "country": "Mexico",
+    "city": "Xicotepec, Puebla",
+    "stream_url": "https://sh1.radioonlinehd.com:8044/stream"
+  },
+  {
+    "name": " Radio ZET Chilli ",
+    "latitude": 50.28933925329178,
+    "longitude": 18.61785862486835,
+    "country": "Poland",
+    "city": "Poland",
+    "stream_url": "https://ch05.cdn.eurozet.pl/chi-net.mp3?redirected=05"
+  },
+  {
+    "name": " Radiopostaja Mir - Međugorje",
+    "latitude": 43.190659573987475,
+    "longitude": 17.677639259699358,
+    "country": "Bosnia And Herzegovina",
+    "city": "Herzegovina-Neretva Canton",
+    "stream_url": "https://mirm.live/mir.mp3"
+  },
+  {
+    "name": " Sky News Australia Radio",
+    "latitude": -33.94153531741429,
+    "longitude": 151.0341758204815,
+    "country": "Australia",
+    "city": "Sydney NSW",
+    "stream_url": "https://28093.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac"
+  },
+  {
+    "name": " SUPER ZONA 104.3 (Temax) - 104.3 FM - XHPTEM-FM - Temax, Yucatán",
+    "latitude": 21.151897075196025,
+    "longitude": -88.93891811370851,
+    "country": "Mexico",
+    "city": "Temax, Yucatán",
+    "stream_url": "https://stream-175.zeno.fm/0kfnwylndhsuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwa2Zud3lsbmRoc3V2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmxtSG1oV1RSZENKRUNuQ0NRU0l0dyIsImlhdCI6MTc0ODg2NzM3OCwiZXhwIjoxNzQ4ODY3NDM4fQ.TEPqXyM2DSzeitVv9pRMhFSDYJkrWEJwGmX4MPDTuPs"
+  },
+  {
+    "name": " VIVE FM 97.7 (Montemorelos) - 97.7 FM - XHLOS-FM - Sistema de Radio y Televisión de Nuevo León - Montemorelos, Nuevo León",
+    "latitude": 25.190770028973812,
+    "longitude": -99.83078956604004,
+    "country": "Mexico",
+    "city": "Montemorelos, Nuevo León",
+    "stream_url": "https://s2.mexside.net/8104/stream"
+  },
+  {
+    "name": " Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM",
+    "latitude": 14.10790322344337,
+    "longitude": -87.20320701599123,
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "stream_url": "https://ice42.securenetsystems.net/VOXFM"
+  },
+  {
+    "name": " W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato",
+    "latitude": 21.001311690270473,
+    "longitude": -100.38491249084474,
+    "country": "Mexico",
+    "city": "San José Iturbide, Guanajuato",
+    "stream_url": "https://playradio.mx/proxy/los40jose?mp=/stream"
+  },
+  {
+    "name": " W RADIO 91.5 (Tapachula) - 91.5 FM - XHTAC-FM - Grupo Radio Cañón - Tapachula, Chiapas",
+    "latitude": 14.904771247181298,
+    "longitude": -92.25914955139162,
+    "country": "Mexico",
+    "city": "Tapachula, Chiapas",
+    "stream_url": "https://streaming.servicioswebmx.com/8248/stream"
+  },
+  {
+    "name": " W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañón - Fresnillo, Zacatecas",
+    "latitude": 23.18246241739484,
+    "longitude": -102.87280082702638,
+    "country": "Mexico",
+    "city": "Fresnillo, Zacatecas",
+    "stream_url": "https://streaming.servicioswebmx.com/8294/stream"
+  },
+  {
+    "name": " W RADIO 98.5 (Tututepec) - 98.5 FM - XHPVTS-FM - Grupo Rojas - Tututepec, Oaxaca",
+    "latitude": 16.130737397353784,
+    "longitude": -97.60756015777588,
+    "country": "Mexico",
+    "city": "Tututepec, Oaxaca",
+    "stream_url": "https://stream11.mexiserver.com:9031/stream"
+  },
+  {
+    "name": " WBBM Newsradio 780 AM & 105.9 FM ",
+    "latitude": 41.87365126992505,
+    "longitude": -87.65527725219727,
+    "country": "The United States Of America",
+    "city": "Illinois",
+    "stream_url": "https://prod-54-81-55-113.amperwave.net/audacy-wbbmammp3-imc?session-id=47e13f7097cdc112528cd850e04ba101"
+  },
+  {
+    "name": " 🎥 ues 🎬 ",
+    "latitude": 59.91216063048009,
+    "longitude": 10.739086729008706,
+    "country": "Norway",
+    "city": "Oslo",
+    "stream_url": "https://streamingp.shoutcast.com/JamendoLounge"
+  },
+  {
+    "name": "__1 oldies",
+    "latitude": 40.64339608963903,
+    "longitude": -74.30053710937501,
+    "country": "The United States Of America",
+    "city": "New York",
+    "stream_url": "https://80sexitos.stream.laut.fm/80sexitos"
+  },
+  {
+    "name": "__80 EXITOS",
+    "latitude": 40.414903107605824,
+    "longitude": -3.704710006713867,
+    "country": "Spain",
+    "city": "Madrid",
+    "stream_url": "https://80sexitos.stream.laut.fm/80sexitos"
+  },
+  {
+    "name": "__80 HITS",
+    "latitude": 40.04443758460859,
+    "longitude": -74.75097656250001,
+    "country": "The United States Of America",
+    "city": "New York NY",
+    "stream_url": "http://80sexitos.stream.laut.fm/80sexitos?t302=2025-06-02_08-30-47&uuid=94533c9d-9c0b-4791-83a3-98665227ef53"
+  },
+      {
+        "name": "#Radio Quran",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Nigeria",
+        "city": "",
+        "stream_url": "http://n02.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABlzW6C-gA4inyU9QQUaagqA"
+    },
+    {
+        "name": "#Radio Quran",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Kenya",
+        "city": "",
+        "stream_url": "http://n11.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABlzY6634AVNts5IsuycIodA"
+    },
+    {
+        "name": "011 Radio",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "South Africa",
+        "city": "",
+        "stream_url": "https://sv2.famcast.co.za/proxy/011_radio/stream"
+    },
+    {
+        "name": "إذاعة مشاري العفاسي",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Egypt",
+        "city": "",
+        "stream_url": "https://qurango.net/radio/mishary_alafasi"
+    },
+    {
+        "name": "057 radio",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Ghana",
+        "city": "Banana state",
+        "stream_url": "https://audio.alter-media.hr/9052/stream"
+    },
+    {
+        "name": ". القارئ محمد أيوب",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Morocco",
+        "city": "",
+        "stream_url": "https://qurango.net/radio/mohammed_ayyub"
+    },
+    {
+        "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Algeria",
+        "city": "",
+        "stream_url": "https://14553.live.streamtheworld.com:443/XHPSFMAAC.aac"
+    },
+    {
+        "name": ".Beautiful recitation",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Tunisia",
+        "city": "",
+        "stream_url": "https://qurango.net/radio/salma"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Ethiopia",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": ". Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Uganda",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "Abc Global Radio",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "United Republic Of Tanzania",
+        "city": "Ilala",
+        "stream_url": "https://stream-178.zeno.fm/tvb2jrc38hmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dmIyanJjMzhobXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWHcyWEdhN0VUY0dTQzJLd1lzenVBZyIsImlhdCI6MTc0ODk2NDgxOCwiZXhwIjoxNzQ4OTY0ODc4fQ.65Z6xevZ5I7hmwDN5U9gNeeWvwdTF-Wp-yZhyfzcUBs"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Cameroon",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Senegal",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Zambia",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Zimbabwe",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "EXA FM: Música pop em inglês e espanhol",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Angola",
+        "city": "",
+        "stream_url": "https://27063.live.streamtheworld.com:443/XHPSFMAAC.aac"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Namibia",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "country": "Mozambique",
+        "city": "",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    }
+]

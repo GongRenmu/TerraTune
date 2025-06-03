@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cesium 非洲电台地球</title>
+  <script src="https://cesium.com/downloads/cesiumjs/releases/1.115/Build/Cesium/Cesium.js"></script>
+  <link href="https://cesium.com/downloads/cesiumjs/releases/1.115/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+  <style>
+    html, body, #cesiumContainer { width: 100%; height: 100%; margin: 0; padding: 0; }
+    .cesium-infoBox { font-size: 16px; }
+    .play-link { color: #4FC3F7; text-decoration: underline; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div id="cesiumContainer"></div>
+  <script>
+    // 初始化Cesium Viewer
+    const viewer = new Cesium.Viewer('cesiumContainer', {
+      imageryProvider: new Cesium.IonImageryProvider({ assetId: 2 }), // Bing Maps Aerial
+      baseLayerPicker: false,
+      timeline: false,
+      animation: false,
+      geocoder: false,
+      homeButton: false,
+      sceneModePicker: false,
+      navigationHelpButton: false,
+      infoBox: true,
+      selectionIndicator: true
+    });
+
+    // 加载stations.json
+    fetch('stations.json')
+      .then(res => res.json())
+      .then(stations => {
+        stations.forEach(station => {
+          if (station.longitude && station.latitude) {
+            viewer.entities.add({
+              position: Cesium.Cartesian3.fromDegrees(station.longitude, station.latitude),
+              point: {
+                pixelSize: 10,
+                color: Cesium.Color.RED,
+                outlineColor: Cesium.Color.WHITE,
+                outlineWidth: 2
+              },
+              name: station.name,
+              description: `
+                <b>${station.name}</b><br>
+                ${station.country} ${station.city ? ' - ' + station.city : ''}<br>
+                ${station.homepage ? `<a href="${station.homepage}" target="_blank" style="color:#FFD700;">主页</a><br>` : ''}
+                <span class="play-link" onclick="window.open('${station.stream_url}','_blank')">▶ 播放</span>
+              `
+            });
+          }
+        });
+      });
+  </script>
+</body>
+</html> 
