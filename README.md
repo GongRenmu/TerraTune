@@ -1,45 +1,48 @@
 # TerraTune
 
-一个交互式的3D地球电台播放器，让您可以探索和收听世界各地的广播电台。
+An interactive 3D Earth radio player that lets you explore and listen to radio stations from around the world.
 
-## 功能特点
+## Features
 
-- 3D交互式地球模型
-- 点击地球上的任意位置收听当地电台
-- 实时电台播放
-- 音量控制
-- 响应式设计
+- 3D interactive earth model
+- Click anywhere on the earth to listen to local radio stations
+- Real-time radio playback
+- Volume control
+- Responsive design
 
-## 技术栈
+## Technology stack
 
-- Three.js - 3D渲染
-- Radio Browser API - 电台数据
-- HTML5 Audio API - 音频播放
-- Vite - 开发服务器和构建工具
+- Three.js - 3D rendering
+- Radio Browser API - Radio station data
+- HTML5 Audio API - Audio playback
+- Vite - Development server and build tools
 
-## 开始使用
+## Getting started
 
-1. 安装依赖：
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-2. 启动开发服务器：
+2. Start the development server:
 ```bash
 npm start
 ```
 
-3. 在浏览器中打开 `http://localhost:5173`
+3. Open `http://localhost:5173` in the browser
 
-## 使用说明
+## Instructions
 
-1. 使用鼠标拖动来旋转地球
-2. 使用鼠标滚轮来缩放
-3. 点击地球上的任意位置来收听该地区的电台
-4. 使用播放器控制面板来调整音量和控制播放
+1. Use the mouse to drag to rotate the earth
 
-## 注意事项
+2. Use the mouse wheel to zoom
 
-- 需要现代浏览器支持（Chrome, Firefox, Safari, Edge等）
-- 需要启用WebGL
-- 需要网络连接以获取电台数据 
+3. Click anywhere on the earth to listen to the radio station in that area
+
+4. Use the player control panel to adjust the volume and control playback
+
+## Notes
+
+- Requires modern browser support (Chrome, Firefox, Safari, Edge, etc.)
+- Need to enable WebGL
+- An Internet connection is required to retrieve station data
