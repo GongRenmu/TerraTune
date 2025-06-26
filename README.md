@@ -12,7 +12,7 @@ An interactive 3D Earth radio player that lets you explore and listen to radio s
 
 ## Technology stack
 
-- Three.js - 3D rendering
+- Celsium.js - 3D rendering
 - Radio Browser API - Radio station data
 - HTML5 Audio API - Audio playback
 - Vite - Development server and build tools
